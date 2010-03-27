@@ -1,0 +1,16 @@
+## Interface: 32000
+## Title: myfunctions
+## Notes: sammlung von funktion - ersetzen der leidigen .lua
+## Author: inselberg
+## Version: 0.1
+## X-Category: Interface Enhancements
+## SavedVariables: myfunctionsDB
+
+-- klasse laden
+cFunctions.lua
+
+-- locales
+myfunctions-Locale-deDE.lua
+
+-- core
+core.lua
