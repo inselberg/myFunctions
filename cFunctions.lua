@@ -1,3 +1,5 @@
+--- lib of usefull functions used in my-addons
+
 cFunctions = {}
 cFunctions.__index = cFunctions
 

@@ -1,3 +1,5 @@
+--- shell testfile
+
 require "cFunctions"
 
 function indexof(t,suche)
